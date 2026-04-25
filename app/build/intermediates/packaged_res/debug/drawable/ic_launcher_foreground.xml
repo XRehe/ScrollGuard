@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Kalkan (shield) ikonu — ScrollGuard logosunu temsil eder -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,18 L84,30 L84,56 C84,73 71,85 54,92 C37,85 24,73 24,56 L24,30 Z" />
+    <!-- İçerideki küçük kilit -->
+    <path
+        android:fillColor="#7C4DFF"
+        android:pathData="M54,44 C50.7,44 48,46.7 48,50 C48,52.2 49.2,54.1 51,55.2 L51,62 L57,62 L57,55.2 C58.8,54.1 60,52.2 60,50 C60,46.7 57.3,44 54,44 Z" />
+</vector>

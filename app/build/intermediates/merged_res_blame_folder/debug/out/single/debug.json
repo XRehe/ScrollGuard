@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.scrollguard.app-merged_res-31:/xml_accessibility_config.xml.flat",
+        "source": "com.scrollguard.app-main-33:/xml/accessibility_config.xml"
+    },
+    {
+        "merged": "com.scrollguard.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.scrollguard.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.scrollguard.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.scrollguard.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.scrollguard.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.scrollguard.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.scrollguard.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.scrollguard.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.scrollguard.app-merged_res-31:/color_toggle_track_selector.xml.flat",
+        "source": "com.scrollguard.app-main-33:/color/toggle_track_selector.xml"
+    },
+    {
+        "merged": "com.scrollguard.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.scrollguard.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScrollGuard</string>
+    <string name="accessibility_service_label">ScrollGuard — Scroll Engelleyici</string>
+    <string name="accessibility_service_description">ScrollGuard, Instagram Reels, YouTube Shorts ve TikTok gibi uygulamalardaki sonsuz kaydırmayı engeller. Sadece scroll eventlerini dinler, kişisel verilerinize erişmez.</string>
+</resources>
